@@ -1,0 +1,47 @@
+Study,Quality,Year,Collected,Country,World, N ,Population, Group ,Sample (characteristics),Past year,Adulthood,Lifetime,Adult,Author,Demographics,Mean Age,Race,Poverty,Unemployed,Homeless,Schizo,Psychotic,Bipolar,Anxiety,Depression,Other mood,Substance,Personality,ADHD,ID,PTSD,Other,Alcohol,Drug
+mx04goodman2001,High,2001,1997,US,America,461,Mixed,Mixed,mixed,7.6,24.5,,24.5,Goodman 2001,Male,39.7,Mixed,62,80.6,18.4,73.6,,15.7,,7.4,,58.7,,,,,3.3,,
+mx05Anderson2016,High,2016,2011,UK,Europe,181,Mixed,Mixed,outpatient,,21.6,,21.6,Anderson 2016,Mixed,41.76,Mixed,,79.25,,57.86,,12.58,,,9.43,,,,,,9.43,,
+mx06Yen2002,Low,2002,2001,US,America,244,Mixed,Mixed,personality/depression,,,19.3,19.3,Yen 2002,Mixed,32.9,White,,,,,,,,14.3,,,85.7,,,,,,
+mx16deOliveira2012,High,2012,2006,Brazil,Other,1198,Mixed,Mixed,in/outpatient,,4.25,12.5,12.5,deOliveira 2012,Male,44.8,Mixed,,,21.5,55.5,,5.3,,5.8,,,,,,,33.3,,
+mx17deWaal2017,High,2017,2014,Netherlands,Other,171,Mixed,Mixed,in/outpatient,4.1,,,,de Waal 2017,Male,41.8,,,91.8,,,42.1,,21.6,,22.2,63.2,26.9,8.8,12.9,,13.5,,
+mx19Coverdale2000,High,2000,1999,New Zealand,Other,92,Mixed,Mixed,outpatient,,,26.1,26.1,Coverdale 2000,,,,,,,,,,,,,,,,,,,,
+mx21Hutchings1993,Low,1993,1992,US,America,41,Mixed,Mixed,outpatient,,,24,24,Hutchings 1993,,,,,,,,,,,,,,,,,,,,
+mx25Kamperman2014,High,2014,2010,Netherlands,Europe,608,Mixed,Mixed,outpatient,3,,,,Kamperman 2014,,,,,,,,,,,,,,,,,,,,
+mx26Khalifeh2015,High,2015,2011,UK,Europe,157,Mixed,Mixed,outpatient,3.2,22.9,,22.9,Khalifeh 2015,Mixed,40.8,Mixed,,89.4,,59.7,,11.6,,9.9,,,7.6,,,,11.2,,
+mx28Lipschitz1996,High,1996,1995,US,America,34,Mixed,Mixed,outpatient,,14.7,,14.7,Lipschitz 1996,Mixed,40.3,Mixed,,,,,,,,,,,,,,,,,
+mx35Dammeyer2018,High,2018,2012,Denmark,Europe,493,Mixed,Mixed,national survey participants,2,,,,Dammeyr 2018,,,,,,,,,,,,,,,,,,,,
+mx36Shack2004,Low,2004,2000,US,America,160,Mixed,Mixed,inpatient,,,25,25,Shack 2004,Mixed,33.7,Mixed,,,,26.6,,23.2,,27.7,,,,,,,12.1,,
+mx38Teplin2005,High,2005,1997,US,America,483,Mixed,Mixed,outpatient,0.8,,,,Teplin 2005,Mixed,42.4,Mixed,,,,,,,,,,,,,,,,,
+mx39Mueser1998,High,1998,1996,US,America,122,Mixed,Mixed,in/outpatient,,25.9,,25.9,Mueser 1998,Mixed,40,Mixed,,,,23,,18,,24,,,12,,,,12,,
+mx41Villano2007,High,2007,2003,US,America,175,Mixed,Mixed,outpatient,,,12.6,12.6,Villano 2007,Mixed,39,Mixed,,,,28,,14,4,16,26,7,,,,5,,,
+Int02Llario2019,High,2019,2018,Spain,Europe,180,ID,ID,Intellectual Disability,,,29.4,29.4,Llario 2019,,,,,,,,,,,,,,,,,,,,
+Int03Pan2007,High,2007,2005,Taiwan,Other,190,ID,ID,Intellectual Disability,,,4.2,4.2,Pan 2007,,,,,,,,,,,,,,,,,,,,
+Int04Platt2017,High,2017,2016,US,America,172,ID,ID,Intellectual Disability,,7.1,,7.1,Platt 2017,,,,,,,,,,,,,,,,,,,,
+psy01Amir2012,High,2012,2008,Egypt,Other,61,Psychosis,Mixed,Schizophrenic outpatients,,,26.2,26.2,Amir 2012,Males,36,Arab,,56.7,,100,,,,,,,,,,,,,
+ps03Calhoun2007,High,2007,1998,US,America,165,Psychosis,Mixed,Schizophrenic inpatient veterans,10.3,26.7,,26.7,Calhoun 2007,Males,48,Black,,,,71.7,,,,,,40,,,,47.2,,,
+psy06Tops2012,High,2012,2009,Sweden,Europe,75,Psychosis,Mixed,Psychotic outpatient,6.7,13.3,,13.3,Bengtsson-Tops 2012,Mixed,46,White,,87,4,,100,,,,,,,,,,,,
+PTSD17Lapp2005,High,2005,1997,US,America,133,PTSD,PTSD,inpatient CR-PTSD vets,6.02,19.55,47.3,47.3,Lapp 2005,,,,,,,,,,,,,,,,,,,,
+PTSD18Clancy2006,Low,2006,2001,US,America,422,PTSD,PTSD,outpatient PTSD vets,,5.9,,5.9,Clancy 2006,,,,,,,,,,,,,,,,,,,,
+sa01Tiet2006,High,2006,1997,US,America,33236,SA,SA,SA veterans,,,8.4,8.4,Tiet 2006,Male,46.6,Mixed,,,7,,26,,,,49,,21,,,,4,84,83
+sa02Moncrieff1996,Low,1996,1995,UK,Europe,89,SA,SA,Alcoholics,,6.7,23.6,23.6,Moncrieff 1996,Mixed,40.9,,,,,,,,,,,,,,,,,,
+sa03Afful2010,High,2010,2001,US,America,216,SA,SA,In/outpatient cocaine addicts,,,11.6,11.6,Afful 2010,Mixed,35.9,Mixed,40.5,44.3,,,,,,,,,,,,,,71.2,100
+sa05Armstrong2014,High,2014,2012,India,Other,420,SA,SA,Injecting SA,,,15.8,15.8,Armstrong 2014,Male,36.7,India,48.8,,72.4,,,,71,,,,,,,,,,100
+sa06Barry2011,Low,2011,2010,US,America,85,SA,SA,Opioid addicts,,,16.5,16.5,Barry 2011,Mixed,41.5,,,43,,,,,,,,,,,,,,,100
+sa08Bone2018,Low,2018,2011,US,America,210,SA,SA,Drug users,,,24.8,24.8,Bone 2018,Male,41.2,Mixed,65.3,,66.5,,,,,45.2,,,,,,,,,100
+sa09Bonin2000,Low,2000,1997,Canada,America,61,SA,SA,Mixed SA,,,8.2,8.2,Bonin 2000,Male,34.6,,,,,,,,,,,,,,,37.4,,92.9,44.6
+sa10Braitstein2003,Low,2003,1996,Canada,America,932,SA,SA,Injecting SA,,,18.6,18.6,Braitstein 2003,Mixed,34.2,Mixed,,,,,,,,,,,,,,,,,100
+sa12Branstetter2008,Low,2008,1998,US,America,191,SA,SA,Opioid addicts,,,4,4,Branstetter 2008,Mixed,38,Mixed,,33,,,,,,,,,,,,,,,100
+sa15Daigre2015,High,2015,2006,Spain,Europe,387,SA,SA,Mixed SA,,,6.7,6.7,Daigre 2015,Mixed,38.8,,,,,,5.9,,27.4,46.5,,,,17.3,,,,61,
+sa16Dansky1996,Low,1996,1995,US,America,34,SA,SA,Mixed SA,,,20.6,20.6,Dansky 1996,Mixed,35.34,Mixed,,35.5,,,,,,,,,,,,,,,
+sa18Dworkin2017,Low,2017,2016,US,America,112,SA,SA,Mixed SA,,,33.9,33.9,Dworkin 2017,Mixed,33.49,White,,,,,,,,,,,,,,,,,
+sa19Fiorentine1999,High,1999,1998,US,America,117,SA,SA,Mixed SA,,,13.6,13.6,Fiorentine 1999,Mixed,35,Mixed,,62,,,,,,,,,,,,,,,
+sa20Pearce2008,Low,2008,2003,Canada,America,281,SA,SA,Aboriginal drug users,,,28.8,28.8,Pearce 2008,Mixed,23,,,,,,,,,,,,,,,,,,
+sa21Guimaraes2017,Low,2017,2012,Brazil,Other,914,SA,SA,Cocaine inpatients,,,8.2,8.2,Guimaraes 2017,Male,31.43,Minority,,,17,,,,,,,,,,,,,74.2,
+sa25Jakubczyk2014,Low,2014,2013,Poland,Europe,284,SA,SA,Alcoholics,,5.3,7.4,7.4,Jakubczyk 2014,Mixed,43.5,White,62.8,62.3,,,,,,,,,,,,,,,
+sa29McKeganey2017,Low,2017,2001,Scotland,Europe,715,SA,SA,Mixed SA,,,6.9,6.9,McKeganey 2017,Male,28,White,,,,,,,,,,,,,,,,,
+MH02Tham1995,Low,1995,1992,UK,Europe,91,IPVmix,IPVmix,acute psychatric referals,,,4.4,4.4,Tham 1995,Mixed,38,White,,,,,42,,,,,12,9,,,,,9,3
+MH04Heru2006,High,2006,2004,US,America,44,IPVmix,IPVmix,inpatients,32,,,,Heru 2006,Male,42.5,White,,,,,,,,50,25,16,19,,,9,,,
+MH05Chang2011,High,2011,2009,US,America,158,IPVmix,IPVmix,"in,outpatients, ED",3,,4,4,Chang 2011,Male,39.7,Mixed,,,,8,,25,34,71,,34,,,,12,,,
+MH09Khalifeh2015,High,2015,2011,UK,Europe,170,IPVmix,IPVmix,community care severe,,,4.1,4.1,Khalifeh 2015,Mixed,40.8,Mixed,,89.4,0,59.7,,11.6,,9.9,,,7.6,,,,,,
+129Ruiz2018,High,2018,2016,Spain,Europe,407,IPVmix,IPVmix,mixed diagnoses,2.2,,,,Ruiz-Perez 2018,Male,42.8,,,27.1,,,,,,4.2,6.82,11,11.33,,,0,,,
+MH11Shack2004,Low,2004,2000,US,America,160,IPVmix,IPVmix,inpatients severe,,,7.5,7.5,Shack 2004,Mixed,33.7,Mixedd,,,,26.6,,23.2,,27.7,,10.3,,,,,12.1,,
